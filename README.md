@@ -4,7 +4,7 @@ Racial and Ethnic Disparities in the Timeliness of Nephrology Care for Patients 
 
 <img src="https://img.shields.io/badge/Study%20Status-Started%20-blue.svg" alt="Study Status: Started">
 
-- Analytics use case(s): **Population-Level-Estimation**
+- Analytics use case(s): **Characterization**
 - Study type: **Clinical Application**
 - Tags: **Chronic Kidney Disease**
 - Study lead: **Tom White, MD, MS, MA, CHIE**
